@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var lipcore = require('../lib/cli/bitcore');
+lipcore();
